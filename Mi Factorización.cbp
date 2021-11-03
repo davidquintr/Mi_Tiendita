@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Mi Factorización" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Estructura Principal/;Inventario/;Inventario/Gestion de productos/;Inventario/Gestion de productos/Cambiar registro/;Inventario/Gestion de productos/Restaurar/;Inventario/Gestion de productos/Hacer producto/;Inventario/Cantidades/;Facturación/" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Mi Factorización" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Mi Factorización" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Estructuras.h" />
+		<Unit filename="buscarProducto.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Hacer producto/" />
+		</Unit>
+		<Unit filename="cambiarRegistro.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Cambiar registro/" />
+		</Unit>
+		<Unit filename="cargarFacts.cpp">
+			<Option virtualFolder="Facturación/" />
+		</Unit>
+		<Unit filename="cargarProductos.cpp">
+			<Option virtualFolder="Estructura Principal/" />
+		</Unit>
+		<Unit filename="darDeBaja.cpp">
+			<Option virtualFolder="Inventario/Cantidades/" />
+		</Unit>
+		<Unit filename="editarProducto.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Hacer producto/" />
+		</Unit>
+		<Unit filename="eliminarProducto.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Hacer producto/" />
+		</Unit>
+		<Unit filename="encontrarCantFact.cpp">
+			<Option virtualFolder="Facturación/" />
+		</Unit>
+		<Unit filename="encontrarCantProd.cpp">
+			<Option virtualFolder="Estructura Principal/" />
+		</Unit>
+		<Unit filename="evaluarSimi.cpp">
+			<Option virtualFolder="Estructura Principal/" />
+		</Unit>
+		<Unit filename="facturacion.cpp">
+			<Option virtualFolder="Facturación/" />
+		</Unit>
+		<Unit filename="first_login.cpp">
+			<Option virtualFolder="Estructura Principal/" />
+		</Unit>
+		<Unit filename="gestionarInventario.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/" />
+		</Unit>
+		<Unit filename="guardarEdits.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Cambiar registro/" />
+		</Unit>
+		<Unit filename="guardarFact.cpp">
+			<Option virtualFolder="Facturación/" />
+		</Unit>
+		<Unit filename="guardarProducto.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Cambiar registro/" />
+		</Unit>
+		<Unit filename="imprimirFactura.cpp">
+			<Option virtualFolder="Facturación/" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option virtualFolder="Estructura Principal/" />
+		</Unit>
+		<Unit filename="menuFact.cpp">
+			<Option virtualFolder="Facturación/" />
+		</Unit>
+		<Unit filename="menuInventario.cpp">
+			<Option virtualFolder="Inventario/" />
+		</Unit>
+		<Unit filename="mostrarFacts.cpp">
+			<Option virtualFolder="Facturación/" />
+		</Unit>
+		<Unit filename="mostrarRegistro.cpp">
+			<Option virtualFolder="Estructura Principal/" />
+		</Unit>
+		<Unit filename="registrarCompra.cpp">
+			<Option virtualFolder="Inventario/Cantidades/" />
+		</Unit>
+		<Unit filename="registrarProducto.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Hacer producto/" />
+		</Unit>
+		<Unit filename="restaurarEliminado.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Restaurar/" />
+		</Unit>
+		<Unit filename="restaurarModificado.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Restaurar/" />
+		</Unit>
+		<Unit filename="restaurarProducto.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Restaurar/" />
+		</Unit>
+		<Unit filename="seleccion_modo.cpp">
+			<Option virtualFolder="Estructura Principal/" />
+		</Unit>
+		<Unit filename="setup_login.cpp">
+			<Option virtualFolder="Estructura Principal/" />
+		</Unit>
+		<Unit filename="verifNomRep.cpp">
+			<Option virtualFolder="Inventario/Gestion de productos/Hacer producto/" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

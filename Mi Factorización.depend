@@ -1,0 +1,2492 @@
+# depslib dependency file v1.0
+1620447607 source:c:\users\deibikint\documents\prueba\mi factorización\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1620447158 source:c:\users\deibikint\documents\prueba\mi factorización\main.cpp
+	<iostream>
+
+1620446635 source:c:\users\deibikint\documents\prueba\mi factorización\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1620622622 source:e:\users\deibikint\documents\prueba\mi factorización\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1620625365 source:e:\users\deibikint\documents\prueba\mi factorización\main.cpp
+	<iostream>
+	<stdio.h>
+
+1620622242 source:e:\users\deibikint\documents\prueba\mi factorización\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1620622022 source:e:\users\deibikint\documents\prueba\mi factorización\seleccion_modo.cpp
+	<iostream>
+
+1620621685 source:e:\users\deibikint\documents\prueba\mi factorización\modo.cpp
+	<iostream>
+
+1620622622 source:c:\users\davidquint\google drive\metodología de la programación\mi factorización\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1620625365 source:c:\users\davidquint\google drive\metodología de la programación\mi factorización\main.cpp
+	<iostream>
+	<stdio.h>
+
+1620622022 source:c:\users\davidquint\google drive\metodología de la programación\mi factorización\seleccion_modo.cpp
+	<iostream>
+
+1620639940 source:c:\users\davidquint\google drive\metodología de la programación\mi factorización\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1620619022 source:c:\users\isi2\desktop\mi factorización\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1620665212 source:c:\users\isi2\desktop\mi factorización\main.cpp
+	<iostream>
+	<stdio.h>
+
+1620636340 source:c:\users\isi2\desktop\mi factorización\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1620665817 source:c:\users\isi2\desktop\mi factorización\seleccion_modo.cpp
+	<iostream>
+
+1620665697 source:c:\users\isi2\desktop\mi factorización\gastos.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+
+1620665701 source:c:\users\isi2\desktop\mi factorización\gestor_gasto.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+
+1620664652 source:c:\users\isi2\desktop\mi factorización\historial_gasto.cpp
+	<iostream>
+	<stdio.h>
+	"gastos_base.h"
+
+1619973104 c:\users\isi2\desktop\mi factorización\gastos_base.h
+
+1620664816 source:c:\users\isi2\desktop\mi factorización\modif_gasto.cpp
+
+1620665014 source:c:\users\isi2\desktop\mi factorización\registrar_gasto.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	"gastos_base.h"
+
+1620665953 source:c:\users\isi2\desktop\mi factorización\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1620665953 source:c:\users\davidquint\desktop\mi factorización\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1620786201 source:c:\users\davidquint\desktop\mi factorización\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1620786195 source:c:\users\davidquint\desktop\mi factorización\gastos.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"gastos_base.h"
+
+1620716932 source:c:\users\davidquint\desktop\mi factorización\gestor_gasto.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+
+1620716901 source:c:\users\davidquint\desktop\mi factorización\historial_gasto.cpp
+	<iostream>
+	<stdio.h>
+	"gastos_base.h"
+
+1620717795 c:\users\davidquint\desktop\mi factorización\gastos_base.h
+
+1620665212 source:c:\users\davidquint\desktop\mi factorización\main.cpp
+	<iostream>
+	<stdio.h>
+
+1620664816 source:c:\users\davidquint\desktop\mi factorización\modif_gasto.cpp
+
+1620717042 source:c:\users\davidquint\desktop\mi factorización\registrar_gasto.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	"gastos_base.h"
+
+1620806966 source:c:\users\davidquint\desktop\mi factorización\seleccion_modo.cpp
+	<iostream>
+
+1620636340 source:c:\users\davidquint\desktop\mi factorización\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1620806367 source:c:\users\davidquint\desktop\mi factorización\addgasto.cpp
+	<stdio.h>
+	<iostream>
+	"FormsGastos.h"
+	<string.h>
+
+1620786640 c:\users\davidquint\desktop\mi factorización\formsgastos.h
+
+1620801807 source:c:\users\davidquint\desktop\mi factorización\colocardatosgatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1620799478 source:c:\users\davidquint\desktop\mi factorización\guardardatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1620804714 source:c:\users\davidquint\desktop\mi factorización\leergasto.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+
+1620806966 source:c:\users\davidquint\desktop\mi factorización\main_gastos.cpp
+	<iostream>
+	"FormsGastos.h"
+	<locale.h>
+
+1620793127 source:c:\users\davidquint\desktop\mi factorización\menu_gastos.cpp
+
+1620787186 source:c:\users\davidquint\desktop\mi factorización\modifgasto.cpp
+
+1620806367 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\addgasto.cpp
+	<stdio.h>
+	<iostream>
+	"FormsGastos.h"
+	<string.h>
+
+1620786640 c:\users\davidquint\desktop\mi factorización (12 - 05)\formsgastos.h
+
+1620801807 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\colocardatosgatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1620665953 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1620786201 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1620799478 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\guardardatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1620804714 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\leergasto.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+
+1620665212 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\main.cpp
+	<iostream>
+	<stdio.h>
+
+1620808342 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\main_gastos.cpp
+	<iostream>
+	"FormsGastos.h"
+	<locale.h>
+
+1620793127 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\menu_gastos.cpp
+
+1620787186 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\modifgasto.cpp
+
+1620636340 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1620786159 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\cargarproductos.c
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620782195 c:\users\davidquint\desktop\mi factorización (12 - 05)\prod.h
+
+1620799557 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\encontrarp.c
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620799721 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\guardarproducto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1620802518 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\mostrarregistro.c
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620802563 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\registrarproducto.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1620716588 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\verifnomrep.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1620808476 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\main_inventario.c
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620809296 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620809296 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620809296 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\encontrarp.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620809296 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1620809296 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620809296 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1620808900 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\seleccion_modo.cpp
+	<iostream>
+
+1620809296 source:c:\users\davidquint\desktop\mi factorización (12 - 05)\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1620811049 source:c:\users\david\downloads\mi factorización (12 - 05)\addgasto.cpp
+	<stdio.h>
+	<iostream>
+	"FormsGastos.h"
+	<string.h>
+
+1620786640 c:\users\david\downloads\mi factorización (12 - 05)\formsgastos.h
+
+1620929262 source:c:\users\david\downloads\mi factorización (12 - 05)\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620929262 c:\users\david\downloads\mi factorización (12 - 05)\prod.h
+
+1620801807 source:c:\users\david\downloads\mi factorización (12 - 05)\colocardatosgatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1620809296 source:c:\users\david\downloads\mi factorización (12 - 05)\encontrarp.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620926098 source:c:\users\david\downloads\mi factorización (12 - 05)\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1621015441 source:c:\users\david\downloads\mi factorización (12 - 05)\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1620799478 source:c:\users\david\downloads\mi factorización (12 - 05)\guardardatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1620843543 source:c:\users\david\downloads\mi factorización (12 - 05)\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1620804714 source:c:\users\david\downloads\mi factorización (12 - 05)\leergasto.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+
+1620665212 source:c:\users\david\downloads\mi factorización (12 - 05)\main.cpp
+	<iostream>
+	<stdio.h>
+
+1620808342 source:c:\users\david\downloads\mi factorización (12 - 05)\main_gastos.cpp
+	<iostream>
+	"FormsGastos.h"
+	<locale.h>
+
+1620793127 source:c:\users\david\downloads\mi factorización (12 - 05)\menu_gastos.cpp
+
+1620787186 source:c:\users\david\downloads\mi factorización (12 - 05)\modifgasto.cpp
+
+1620929262 source:c:\users\david\downloads\mi factorización (12 - 05)\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620843301 source:c:\users\david\downloads\mi factorización (12 - 05)\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1620927868 source:c:\users\david\downloads\mi factorización (12 - 05)\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621015519 source:c:\users\david\downloads\mi factorización (12 - 05)\seleccion_modo.cpp
+	<iostream>
+
+1621015519 source:c:\users\david\downloads\mi factorización (12 - 05)\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1620809296 source:c:\users\david\downloads\mi factorización (12 - 05)\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1620927472 source:c:\users\david\downloads\mi factorización (12 - 05)\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1621013805 source:c:\users\david\downloads\mi factorización (12 - 05)\registrarcompras.cpp
+	<stdlib.h>
+	"Prod.h"
+
+1620811049 source:c:\users\david\pictures\mi factorización (12 - 05)\addgasto.cpp
+	<stdio.h>
+	<iostream>
+	"FormsGastos.h"
+	<string.h>
+
+1620786640 c:\users\david\pictures\mi factorización (12 - 05)\formsgastos.h
+
+1620801807 source:c:\users\david\pictures\mi factorización (12 - 05)\colocardatosgatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1620926098 source:c:\users\david\pictures\mi factorización (12 - 05)\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1621015441 source:c:\users\david\pictures\mi factorización (12 - 05)\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1620927472 source:c:\users\david\pictures\mi factorización (12 - 05)\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1620799478 source:c:\users\david\pictures\mi factorización (12 - 05)\guardardatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1620804714 source:c:\users\david\pictures\mi factorización (12 - 05)\leergasto.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+
+1620665212 source:c:\users\david\pictures\mi factorización (12 - 05)\main.cpp
+	<iostream>
+	<stdio.h>
+
+1620808342 source:c:\users\david\pictures\mi factorización (12 - 05)\main_gastos.cpp
+	<iostream>
+	"FormsGastos.h"
+	<locale.h>
+
+1620793127 source:c:\users\david\pictures\mi factorización (12 - 05)\menu_gastos.cpp
+
+1620787186 source:c:\users\david\pictures\mi factorización (12 - 05)\modifgasto.cpp
+
+1620929262 source:c:\users\david\pictures\mi factorización (12 - 05)\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621445628 c:\users\david\pictures\mi factorización (12 - 05)\prod.h
+
+1621013805 source:c:\users\david\pictures\mi factorización (12 - 05)\registrarcompras.cpp
+	<stdlib.h>
+	"Prod.h"
+
+1621015785 source:c:\users\david\pictures\mi factorización (12 - 05)\seleccion_modo.cpp
+	<iostream>
+
+1621015519 source:c:\users\david\pictures\mi factorización (12 - 05)\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1621444869 source:c:\users\david\pictures\mi factorización (12 - 05)\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621444996 source:c:\users\david\pictures\mi factorización (12 - 05)\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621444445 source:c:\users\david\pictures\mi factorización (12 - 05)\encontrarp.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621445421 source:c:\users\david\pictures\mi factorización (12 - 05)\bucarproducto.cpp
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621444311 source:c:\users\david\pictures\mi factorización (12 - 05)\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621444492 source:c:\users\david\pictures\mi factorización (12 - 05)\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621444546 source:c:\users\david\pictures\mi factorización (12 - 05)\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621445376 source:c:\users\david\pictures\mi factorización (12 - 05)\segurocancelar.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+	"Prod.h"
+
+1621444600 source:c:\users\david\pictures\mi factorización (12 - 05)\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1620811049 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\addgasto.cpp
+	<stdio.h>
+	<iostream>
+	"FormsGastos.h"
+	<string.h>
+
+1620786640 c:\users\davidquint\desktop\mi factorización (19 - 05)\formsgastos.h
+
+1621445421 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\bucarproducto.cpp
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621445628 c:\users\davidquint\desktop\mi factorización (19 - 05)\prod.h
+
+1621444869 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621444311 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1620801807 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\colocardatosgatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1621444996 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621444445 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\encontrarp.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621015441 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1621462407 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1620799478 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\guardardatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1621444492 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1620804714 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\leergasto.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+
+1621462293 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\main.cpp
+	<iostream>
+	<stdio.h>
+
+1620808342 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\main_gastos.cpp
+	<iostream>
+	"FormsGastos.h"
+	<locale.h>
+
+1620793127 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\menu_gastos.cpp
+
+1620787186 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\modifgasto.cpp
+
+1620929262 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621013805 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\registrarcompras.cpp
+	<stdlib.h>
+	"Prod.h"
+
+1621444546 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621445653 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621445376 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\segurocancelar.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+	"Prod.h"
+
+1621462311 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\seleccion_modo.cpp
+	<iostream>
+
+1621015519 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1621444600 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1621423074 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\facturacion_evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1621462054 source:c:\users\davidquint\desktop\mi factorización (19 - 05)\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+	<iostream>
+	"facturaEst.h"
+
+1621461948 c:\users\davidquint\desktop\mi factorización (19 - 05)\facturaest.h
+
+1621486444 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\addgasto.cpp
+	<stdio.h>
+	<iostream>
+	"FormsGastos.h"
+	<string.h>
+
+1620786640 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\formsgastos.h
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\bucarproducto.cpp
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621753241 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\prod.h
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621755174 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621486555 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\colocardatosgatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621751082 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\encontrarp.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621015441 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1620799478 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\guardardatos.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+	<string.h>
+
+1621753080 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1620804714 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\leergasto.cpp
+	<iostream>
+	<stdio.h>
+	"FormsGastos.h"
+
+1621462293 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\main.cpp
+	<iostream>
+	<stdio.h>
+
+1620808342 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\main_gastos.cpp
+	<iostream>
+	"FormsGastos.h"
+	<locale.h>
+
+1620793127 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\menu_gastos.cpp
+
+1620787186 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\modifgasto.cpp
+
+1621756056 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621013805 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\registrarcompras.cpp
+	<stdlib.h>
+	"Prod.h"
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621752885 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621756056 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\segurocancelar.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+	"Prod.h"
+
+1621747684 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\seleccion_modo.cpp
+	<iostream>
+
+1621752477 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1621492277 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+	<iostream>
+	"facturaEst.h"
+
+1621489526 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\facturaest.h
+
+1621486258 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\facturacion_evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1621755285 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621756315 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\buscarproducto.cpp
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621756138 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\mi factorización (19 - 05)\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621756315 source:c:\users\isi2\downloads\mi factorización (19 - 05)\buscarproducto.cpp
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621753241 c:\users\isi2\downloads\mi factorización (19 - 05)\prod.h
+
+1621752320 source:c:\users\isi2\downloads\mi factorización (19 - 05)\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621755174 source:c:\users\isi2\downloads\mi factorización (19 - 05)\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621752320 source:c:\users\isi2\downloads\mi factorización (19 - 05)\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621755285 source:c:\users\isi2\downloads\mi factorización (19 - 05)\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621492277 source:c:\users\isi2\downloads\mi factorización (19 - 05)\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+	<iostream>
+	"facturaEst.h"
+
+1621489526 c:\users\isi2\downloads\mi factorización (19 - 05)\facturaest.h
+
+1621752320 source:c:\users\isi2\downloads\mi factorización (19 - 05)\facturacion_evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1621015441 source:c:\users\isi2\downloads\mi factorización (19 - 05)\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1621869497 source:c:\users\isi2\downloads\mi factorización (19 - 05)\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621753080 source:c:\users\isi2\downloads\mi factorización (19 - 05)\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621462293 source:c:\users\isi2\downloads\mi factorización (19 - 05)\main.cpp
+	<iostream>
+	<stdio.h>
+
+1621752320 source:c:\users\isi2\downloads\mi factorización (19 - 05)\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621871381 source:c:\users\isi2\downloads\mi factorización (19 - 05)\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621756056 source:c:\users\isi2\downloads\mi factorización (19 - 05)\segurocancelar.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+	"Prod.h"
+
+1621869529 source:c:\users\isi2\downloads\mi factorización (19 - 05)\seleccion_modo.cpp
+	<iostream>
+	"Prod.h"
+
+1621486258 source:c:\users\isi2\downloads\mi factorización (19 - 05)\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1621752477 source:c:\users\isi2\downloads\mi factorización (19 - 05)\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1621868323 source:c:\users\isi2\downloads\mi factorización (19 - 05)\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621868323 source:c:\users\isi2\downloads\mi factorización (19 - 05)\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621872332 source:c:\users\isi2\downloads\mi factorización (19 - 05)\restaurarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621995172 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\buscarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621997577 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\prod.h
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621904201 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621991886 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621997233 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621755285 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621492277 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+	<iostream>
+	"facturaEst.h"
+
+1621489526 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\facturaest.h
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\facturacion_evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1621964062 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1621988910 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621919047 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621462293 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\main.cpp
+	<iostream>
+	<stdio.h>
+
+1621986770 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621990515 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621996621 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621996621 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\restaurarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621989713 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\segurocancelar.cpp
+	<stdio.h>
+	<stdbool.h>
+	<locale.h>
+	"Prod.h"
+
+1621988910 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\seleccion_modo.cpp
+	<iostream>
+	"Prod.h"
+
+1621752477 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1621898364 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1621997333 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\restaurareliminado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621998409 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\guardaredits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621991175 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\help pls\restaurarmodificado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622057300 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\buscarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621997577 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\prod.h
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621904201 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622056947 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622056947 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621755285 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622014835 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+	<iostream>
+	"facturaEst.h"
+
+1621489526 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\facturaest.h
+
+1622049316 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\facturacion_evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1621964062 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1621998409 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\guardaredits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621919047 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621462293 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\main.cpp
+	<iostream>
+	<stdio.h>
+
+1621986770 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621996621 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621997333 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\restaurareliminado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621991175 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\restaurarmodificado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621996621 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\restaurarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621988910 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\seleccion_modo.cpp
+	<iostream>
+	"Prod.h"
+
+1621898364 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1621752477 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1622055938 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622011507 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622052610 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1622056770 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit\registrarcompra.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621997577 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\prod.h
+
+1621904201 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622075569 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622075569 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621755285 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622075011 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1622014835 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+	<iostream>
+	"facturaEst.h"
+
+1621489526 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\facturaest.h
+
+1622049316 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\facturacion_evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1621964062 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1622080345 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621998409 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\guardaredits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621919047 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621462293 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\main.cpp
+	<iostream>
+	<stdio.h>
+
+1622077351 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622059418 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\registrarcompra.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622080806 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622077157 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\restaurareliminado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\restaurarmodificado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\restaurarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622079391 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\seleccion_modo.cpp
+	<iostream>
+	"Prod.h"
+
+1621898364 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1621752477 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1622079194 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\buscarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622074054 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\master del edit no more\dardebaja.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622080959 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\buscarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621997577 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\prod.h
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621904201 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622074054 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\dardebaja.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622075569 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622075569 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621755285 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622075011 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1622130994 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\facturacion_evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1621964062 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1622080345 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621998409 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\guardaredits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621919047 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621462293 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\main.cpp
+	<iostream>
+	<stdio.h>
+
+1622077351 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622059418 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\registrarcompra.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622080806 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622077157 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\restaurareliminado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\restaurarmodificado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\restaurarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622130210 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\seleccion_modo.cpp
+	<iostream>
+	"Prod.h"
+
+1621898364 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1621752477 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1622119723 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\encontrarcantfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"facturaEst.h"
+
+1622128065 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\facturaest.h
+
+1622132238 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1622133417 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\imprimirfactura.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+	"Prod.h"
+	"facturaEst.h"
+
+1622129458 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\guardarfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1622130994 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\cargarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"facturaEst.h"
+
+1622134106 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\mostrarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1622134058 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si\menufact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1622080959 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\buscarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621997577 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\prod.h
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622130994 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\cargarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"facturaEst.h"
+
+1622128065 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\facturaest.h
+
+1621904201 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622074054 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\dardebaja.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622075569 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622075569 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622119723 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\encontrarcantfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"facturaEst.h"
+
+1621755285 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622075011 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1621964062 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1622080345 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621998409 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\guardaredits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622129458 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\guardarfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1621919047 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1621462293 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\main.cpp
+	<iostream>
+	<stdio.h>
+
+1622154552 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\menufact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1622154381 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\mostrarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1622077351 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622059418 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\registrarcompra.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622080806 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622077157 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\restaurareliminado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\restaurarmodificado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\restaurarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622130210 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\seleccion_modo.cpp
+	<iostream>
+	"Prod.h"
+
+1621898364 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1621752477 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1622154016 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\imprimirfactura.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+	"Prod.h"
+	"facturaEst.h"
+
+1622154958 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\ahora si que si old\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1622080959 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\buscarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1621997577 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\prod.h
+
+1621752320 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622130994 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\cargarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"facturaEst.h"
+
+1622128065 c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\facturaest.h
+
+1621904201 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622074054 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\dardebaja.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622075569 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622075569 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622119723 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\encontrarcantfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"facturaEst.h"
+
+1621755285 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622075011 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Prod.h"
+
+1621964062 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1622080345 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1621998409 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\guardaredits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622129458 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\guardarfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1621919047 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622154016 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\imprimirfactura.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+	"Prod.h"
+	"facturaEst.h"
+
+1621462293 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\main.cpp
+	<iostream>
+	<stdio.h>
+
+1622154552 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\menufact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1622156354 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\mostrarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1622077351 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622059418 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\registrarcompra.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622080806 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622077157 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\reinventario .cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\restaurareliminado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\restaurarmodificado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622076758 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\restaurarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+
+1622130210 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\seleccion_modo.cpp
+	<iostream>
+	"Prod.h"
+
+1621898364 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1621752477 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Prod.h"
+
+1622155626 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Prod.h"
+	"facturaEst.h"
+
+1622077157 source:c:\users\erick gonzalez\documents\universidad\proyectos\final proyect\familiarizacion final mix\menuinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Prod.h"
+
+1622165129 source:c:\users\davidquint\desktop\familiarizacion final mix re\buscarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Estructuras.h"
+
+1621997577 c:\users\davidquint\desktop\familiarizacion final mix re\prod.h
+
+1622164882 source:c:\users\davidquint\desktop\familiarizacion final mix re\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\cargarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622128065 c:\users\davidquint\desktop\familiarizacion final mix re\facturaest.h
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\dardebaja.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Estructuras.h"
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	"Estructuras.h"
+
+1622165792 source:c:\users\davidquint\desktop\familiarizacion final mix re\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Estructuras.h"
+
+1622164882 source:c:\users\davidquint\desktop\familiarizacion final mix re\encontrarcantfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Estructuras.h"
+
+1622167770 source:c:\users\davidquint\desktop\familiarizacion final mix re\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622163585 source:c:\users\davidquint\desktop\familiarizacion final mix re\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Estructuras.h"
+
+1622164993 source:c:\users\davidquint\desktop\familiarizacion final mix re\guardaredits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622164882 source:c:\users\davidquint\desktop\familiarizacion final mix re\guardarfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622168874 source:c:\users\davidquint\desktop\familiarizacion final mix re\imprimirfactura.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+	<iostream>
+	"Estructuras.h"
+
+1622163585 source:c:\users\davidquint\desktop\familiarizacion final mix re\main.cpp
+	<iostream>
+	<stdio.h>
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\menufact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\menuinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\mostrarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\registrarcompra.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Estructuras.h"
+
+1622174206 source:c:\users\davidquint\desktop\familiarizacion final mix re\restaurareliminado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Estructuras.h"
+
+1622174206 source:c:\users\davidquint\desktop\familiarizacion final mix re\restaurarmodificado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622174211 source:c:\users\davidquint\desktop\familiarizacion final mix re\restaurarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622164215 source:c:\users\davidquint\desktop\familiarizacion final mix re\seleccion_modo.cpp
+	<iostream>
+	"Estructuras.h"
+
+1622163585 source:c:\users\davidquint\desktop\familiarizacion final mix re\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1622165175 source:c:\users\davidquint\desktop\familiarizacion final mix re\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Estructuras.h"
+
+1622165662 source:c:\users\davidquint\desktop\familiarizacion final mix re\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622165662 source:c:\users\davidquint\desktop\familiarizacion final mix re\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<iostream>
+	"Estructuras.h"
+
+1622164000 c:\users\davidquint\desktop\familiarizacion final mix re\estructuras.h
+
+1622165129 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\buscarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Estructuras.h"
+
+1622164000 d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\estructuras.h
+
+1622164882 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\cargarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\dardebaja.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	"Estructuras.h"
+
+1622165792 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Estructuras.h"
+
+1622164882 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\encontrarcantfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Estructuras.h"
+
+1622167770 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622163585 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Estructuras.h"
+
+1622164993 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\guardaredits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622164882 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\guardarfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622165662 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622168874 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\imprimirfactura.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+	<iostream>
+	"Estructuras.h"
+
+1622163585 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\main.cpp
+	<iostream>
+	<stdio.h>
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\menufact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\menuinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\mostrarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\registrarcompra.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Estructuras.h"
+
+1622165662 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<iostream>
+	"Estructuras.h"
+
+1622174206 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\restaurareliminado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Estructuras.h"
+
+1622174206 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\restaurarmodificado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622174211 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\restaurarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\seleccion_modo.cpp
+	<iostream>
+	"Estructuras.h"
+
+1622174435 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1622165175 source:d:\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Estructuras.h"
+
+1622165129 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\buscarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Estructuras.h"
+
+1622164000 d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\estructuras.h
+
+1622164882 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\cambiarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\cargarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\cargarproductos.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\dardebaja.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\editarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<iostream>
+	"Estructuras.h"
+
+1622165792 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\eliminarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Estructuras.h"
+
+1622164882 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\encontrarcantfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\encontrarcantprod.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\evaluarsimi.cpp
+	<iostream>
+	<string.h>
+	"Estructuras.h"
+
+1622167770 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\facturacion.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622163585 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\first_login.cpp
+	<stdio.h>
+	<locale.h>
+	<iostream>
+	<string.h>
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\gestionarinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Estructuras.h"
+
+1622164993 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\guardaredits.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622164882 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\guardarfact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622165662 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\guardarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622168874 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\imprimirfactura.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+	<iostream>
+	"Estructuras.h"
+
+1622163585 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\main.cpp
+	<iostream>
+	<stdio.h>
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\menufact.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\menuinventario.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\mostrarfacts.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\mostrarregistro.cpp
+	<stdio.h>
+	<stdlib.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\registrarcompra.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Estructuras.h"
+
+1622165662 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\registrarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<iostream>
+	"Estructuras.h"
+
+1622174206 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\restaurareliminado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Estructuras.h"
+
+1622174206 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\restaurarmodificado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622174211 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\restaurarproducto.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estructuras.h"
+
+1622164215 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\seleccion_modo.cpp
+	<iostream>
+	"Estructuras.h"
+
+1622174435 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\setup_login.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	<locale.h>
+
+1622165175 source:d:\universidad\universidad centroamericana 1s2021\metodología de la programación\trabajos en c -- c++\finales\proy final - factorización\verifnomrep.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Estructuras.h"
+
